@@ -17,6 +17,7 @@ const AppNavigator = createStackNavigator({
 },
 {
   defaultNavigationOptions: {
+    headerStatusBarHeight:18,
     headerTitleAlign:'center',
     headerStyle: {
       backgroundColor: '#f4511e',
